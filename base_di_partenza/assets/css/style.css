@@ -223,6 +223,7 @@ footer a {
     display: inline-block;
     border: 5px solid #a02571;
     margin-bottom: 2%;
+    height: 90px;
   }
   section h2 {
     background-color: #969494;
